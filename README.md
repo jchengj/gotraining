@@ -1,4 +1,4 @@
-## Hardcore Go 1
+## Hardcore Go 12
 
 [Click Here To Review The Course Material](00-slides/readme.md)
 
